@@ -29,7 +29,7 @@ BDO Offsets Dumper is a DotNet simple Dumper for the Black Desert Online game it
 * Output of the dumper:
 
 
-* ------------------Black Desert Universal Dumper - Open Source by @123lkj12lk312kjl3 - Github: @Sehyn ----------------
+* ------------------Black Desert Universal Dumper - Open Source by @123lkj12lk312kjl3 - Github: @Sehyn ---------------
 * LocalPlayer = 0x143715328;
 * LocalMount = 0x143715650;
 * MaxZoomAddr = 0x143561B40;
